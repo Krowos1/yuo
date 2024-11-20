@@ -1,6 +1,6 @@
 # yuo
 Youtube audio downloader
-Audio Downloader is a convenient tool for downloading audio from videos. With this application, you can choose the desired audio format and download it quickly using optimized speed settings.
+yuo is a convenient tool for downloading audio from videos. With this application, you can choose the desired audio format and download it quickly using optimized speed settings.
 
 Features:
 
@@ -15,12 +15,14 @@ Enter the URL of the video from which you want to extract audio.
 Review the available audio formats displayed by the program.
 Enter the identifier of your chosen format.
 Wait for the download to complete. The file will be saved in the current folder as output.<extension>.
+
 Requirements:
 
 yt-dlp must be installed and available in the system PATH.
 Internet access.
+
 Notes:
 
 The program supports only video links from platforms compatible with yt-dlp.
 If the download fails, ensure that the provided link and format are valid.
-Use Audio Downloader for fast and convenient audio downloads!
+Use yuo for fast and convenient audio downloads!
