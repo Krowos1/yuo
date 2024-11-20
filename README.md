@@ -18,7 +18,7 @@ Wait for the download to complete. The file will be saved in the current folder 
 
 Requirements:
 
-yt-dlp must be installed and available in the system PATH.
+'yt-dlp' must be installed and available in the system PATH.
 Internet access.
 
 Notes:
