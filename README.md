@@ -9,7 +9,7 @@
 - High-speed downloads with multi-threading optimization.
 - Simple control through a console interface.
 
-#How to Use:
+# How to Use:
 
 - Download You_en
 - Run the program (double-click the EXE file or launch it via the console).
