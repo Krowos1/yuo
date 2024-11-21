@@ -16,10 +16,10 @@
 - Enter the URL of the video from which you want to extract audio.
 - Review the available audio formats displayed by the program.
 - Enter the identifier of your chosen format.
-- Wait for the download to complete. The file will be saved in the current folder as output.<extension>.
+- Wait for the download to complete. The file will be saved in the current folder as _output.<extension>_.
 
 # Notes:
 
-- The program supports only video links from platforms compatible with yt-dlp.
+- The program supports only video links from platforms compatible with `yt-dlp.`
 - If the download fails, ensure that the provided link and format are valid.
 - Use yuo for fast and convenient audio downloads!
